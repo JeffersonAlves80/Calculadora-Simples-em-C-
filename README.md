@@ -1,4 +1,4 @@
-# Calculadora Simples em C
+# Calculadora Simples em C ++
 
 ## Descrição
 Esta é uma aplicação de calculadora simples escrita em C. Ela suporta as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão.
